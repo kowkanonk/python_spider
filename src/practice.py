@@ -5,7 +5,7 @@ import os
 # response = urllib.request.urlopen("https://mm.taobao.com/json/request_top_list.htm?page=1")
 #html = response.read()
 #print(html)
-print("正在获取网页内容保存到本地...")
+print("retriving content...")
 
 
 class SpiderW:
