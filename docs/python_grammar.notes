@@ -1,0 +1,4 @@
+1. Data type: int, float, string, boolean(True,False), None
+2. print: print('100 + 200 =', 100 + 200)
+3. comment: # this is a comment
+4. variable: 
